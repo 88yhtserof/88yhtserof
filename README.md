@@ -1,16 +1,13 @@
-### Hi there 👋
+### :rabbit: *Hi, I'm YunHwi*
 
-<!--
-**88yhtserof/88yhtserof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning IOS with Swift.
+- I've learned Android with Kotlin and Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88yhtserof&show_icons=true&title_color=6A5ACD&text_color=483D8B&icon_color=FFD700)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88yhtserof&layout=compact&title_color=6A5ACD)
+
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:88yhtserof@naver.com)](mailto:88yhtserof@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:88yhtserofg@gmail.com)](mailto:88yhtserofg@gmail.com)
