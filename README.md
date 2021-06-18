@@ -1,7 +1,6 @@
 ### :rabbit: *Hi, I'm YunHwi*
 
-- I’m currently learning IOS with Swift.
-- I've learned Android with Kotlin and Java.
+- 
 
 
 
