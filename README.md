@@ -1,7 +1,9 @@
 *Hi, I'm YunHwi.* 
 =====================
+<img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://88yhtserof.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br/>
-
 #### :fire: Chellenge (2021.06.19 ~ ) 
 - *1 Day 1 Commit* :seedling:   
 <br/>
