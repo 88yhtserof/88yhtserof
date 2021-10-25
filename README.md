@@ -13,7 +13,7 @@
 <br/>
 
 #### :sparkles: Interest
-- *iOS Programming*
+- *iOS*
 - ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
