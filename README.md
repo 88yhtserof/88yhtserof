@@ -9,7 +9,7 @@
 <br/>
 
 #### :fire: Chellenge (2021.06.19 ~ ) 
-- *1 Day 1 Commit* :seedling:   
+- *:seedling: 심어서 🌳만들기*   
 <br/>
 
 #### :sparkles: Interest
