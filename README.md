@@ -1,10 +1,9 @@
 *Hi, I'm Yun-Hwi!* 
 =====================
 
-<br/>
-
-#### :fire: Chellenge (2021.06.19 ~ ) 
+#### :fire: study
 - *:seedling: 심어 🌳만들기*   
+- [블로그](https://88yhtserof.tistory.com)
 <br/>
 
 #### :sparkles: Interest
