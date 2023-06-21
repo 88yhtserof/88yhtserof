@@ -1,6 +1,6 @@
 
 #### :fire: study
-- ![Blog](https://img.shields.io/badge/Blog-EC6653?style=flat-square&logo=Tistory&logoColor=white)
+- [기술 블로그](https://88yhtserof.tistory.com)
 
 #### 🛠️ Skil
 - ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
