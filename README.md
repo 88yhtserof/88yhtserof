@@ -1,3 +1,4 @@
+<div align="center">
 
 #### :fire: study
 - [기술 블로그](https://88yhtserof.tistory.com)
@@ -18,3 +19,5 @@
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88yhtserof&show_icons=true&title_color=6A5ACD&text_color=483D8B&icon_color=FFD700)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88yhtserof&layout=compact&title_color=6A5ACD)
+
+</div>
