@@ -10,9 +10,10 @@
 ![SnapKit](https://img.shields.io/badge/SnapKit-52B0E7?style=flat-square&logo=suckless&logoColor=white)
 
 #### :sparkles: Project
-| <img width="200" height="200" src="https://github.com/WanF-Project/WanF-Project-iOS/assets/65601189/8daa61d5-9b72-4b1e-a054-16f22656d725"> |
-|:---------:|
-| [WanF](https://github.com/WanF-Project/WanF-Project-iOS) |
+| <img width="100" height="100" src="https://github.com/WanF-Project/WanF-Project-iOS/assets/65601189/8daa61d5-9b72-4b1e-a054-16f22656d725"> | <img width="100" height="100" src="https://github.com/88yhtserof/YaGi/assets/65601189/ce3aab9a-9784-4bc7-8b7b-2945fcf61690"> | <img width="100" height="100" src="https://github.com/88yhtserof/88yhtserof/assets/65601189/f040901d-91e7-4e96-b852-bdc86b5ecee3"> |
+|:---------:|:---------:|:---------:|
+| [WanF](https://github.com/WanF-Project/WanF-Project-iOS) | [야기](https://github.com/88yhtserof/YaGi) |[RecorDream<br>-AppJam](https://github.com/88yhtserof/YaGi) |
+
 
 <br>
 
