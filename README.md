@@ -7,7 +7,7 @@
 <br>
 <br>
 
-### skill
+### Skill
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
@@ -34,7 +34,7 @@
 <br>
 <br>
 
-### project
+### Project
 
 | Service | Description | Group | Period | Link |
 | --- | --- | --- | --- | --- |
