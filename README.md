@@ -1,25 +1,56 @@
-<div align="center">
+### 🙋🏻‍♀️ About ME
 
-#### :fire: study
-- [기술 블로그](https://88yhtserof.tistory.com)
+- 제 목표는 라이프스타일 서비스를 통해 사람들의 삶을 향상시키는 개발자가 되는 것입니다.
+- 독서와 글쓰기를 즐기며, 블로그를 통해 지식을 기록하고 아이디어를 나눕니다.
+- Figma를 사용하여 앱을 직접 디자인하고 개발합니다.
+- 디지털 접근성에 관심을 가지고 있으며, 모든 사용자가 동등하게 이용할 수 있는 서비스 개발을 지향합니다.
 
-#### 🛠️ Skil
-- ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
+<br>
+<br>
+
+### ⚒️ skill
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![ReactiveX](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white)
-![SnapKit](https://img.shields.io/badge/SnapKit-52B0E7?style=flat-square&logo=suckless&logoColor=white)
-
-#### :sparkles: Project
-| <img width="100" height="100" src="https://github.com/WanF-Project/WanF-Project-iOS/assets/65601189/8daa61d5-9b72-4b1e-a054-16f22656d725"> | <img width="100" height="100" src="https://github.com/88yhtserof/88yhtserof/assets/65601189/d1f4c96a-8cc5-471f-9746-fb2e19b45b1e"> | <img width="100" height="100" src="https://github.com/88yhtserof/88yhtserof/assets/65601189/f040901d-91e7-4e96-b852-bdc86b5ecee3"> | <img width="100" height="100" src="https://github.com/88yhtserof/LazyCookie/assets/65601189/beb3e874-4693-437c-ac4c-f6a6978db8cb"> |
-|:---------:|:---------:|:---------:| :---------:|
-| [WanF](https://github.com/WanF-Project/WanF-Project-iOS) | [야기](https://github.com/88yhtserof/YaGi) |[RecorDream<br>-AppJam](https://github.com/TeamRecorDream/RecorDream-iOS-AppJam) | [LazyCookie](https://github.com/88yhtserof/LazyCookie) |
-
+![UIKit](https://img.shields.io/badge/UIKit-52B0E7?style=flat-square&logo=Apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-52B0E7?style=flat-square&logo=Apple&logoColor=white)
 
 
 <br>
+<br>
 
-\
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=88yhtserof&show_icons=true&title_color=6A5ACD&text_color=483D8B&icon_color=FFD700)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88yhtserof&layout=compact&title_color=6A5ACD)
+### **🏋️ Experience**
 
-</div>
+- LinkageLab 인턴 (2024.09 - 11)
+    - 카카오 서비스 디지털 접근성 컨설팅 팀
+    - 모바일 애플리케이션 접근성 지침 기반 iOS 서비스 분석
+    - Accessibility API를 활용한 iOS 서비스 접근성 개선
+
+- 앨런 Swift문법 마스터 스쿨 37기 (2024.09 - 11)
+- 성공회대학교 IT&미디어 경진대회 - 동상 (2023.11.16)
+- SOPT 30기 iOS 파트 (2022.02 ~ 2022.08)
+
+
+<br>
+<br>
+
+### 📽️ project
+
+| Service | Description | Group | Period | Link |
+| --- | --- | --- | --- | --- |
+| Basic Components with Accessibility | iOS 디지털 접근성 교육용 앱 | LinkageLab | 2024.09 - 11 | [Repository](https://github.com/88yhtserof/LinkageLab-Accessibility) |
+| WanF | 교내 강의 친구 찾기 서비스 (소셜 디스커버리) | 성공회대학교 | 2024.03 - 09 | [Repository](https://github.com/WanF-Project/WanF-Project-iOS) |
+| Yagi | 이야기 작성 및 관리 서비스 | 개인 | 2022.09 ~ | [Repository](https://github.com/88yhtserof/YaGi) / [AppStore](https://apps.apple.com/kr/app/%EC%95%BC%EA%B8%B0-yagi/id1669865469) |
+| RecorDream-AppJam | 꿈 기록 및 관리 서비스 | SOPT 30기 | 22.07.09 - 22.07.23 | [Repository](https://github.com/TeamRecorDream/RecorDream-iOS-AppJam) |
+
+<br>
+<br>
+
+### 🔍Where to find me
+
+- 🔗 [기술 블로그](https://88yhtserof.tistory.com)
+- ✉️ 88yhtserof@naver.com
+
+<br>
+<br>
