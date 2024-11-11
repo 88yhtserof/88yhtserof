@@ -1,8 +1,7 @@
 ### About ME
 
-- 유의미한 라이프스타일 서비스를 통해 사람들의 삶에 도움을 주는 개발자를 목표합니다.
+- 사람들의 삶에 도움을 주는 개발자가 되는 것을 목표합니다.
 - 글을 읽고 쓰는 것을 즐기며, 블로그를 통해 지식과 아이디어를 기록하고 공유합니다.
-- Figma를 사용해 앱을 직접 디자인하고 개발합니다.
 - 디지털 접근성에 관심을 가지고 있으며, 모든 사용자가 동등하게 이용할 수 있는 서비스 개발을 지향합니다.
 
 <br>
@@ -40,7 +39,7 @@
 | Service | Description | Group | Period | Link |
 | --- | --- | --- | --- | --- |
 | Basic Components with Accessibility | iOS 디지털 접근성 교육용 앱 | LinkageLab | 2024.09 - 11 | [Repository](https://github.com/88yhtserof/LinkageLab-Accessibility) |
-| WanF | 교내 강의 친구 찾기 서비스 (소셜 디스커버리) | 성공회대학교 | 2024.03 - 09 | [Repository](https://github.com/WanF-Project/WanF-Project-iOS) |
+| WanF | 교내 강의 친구 찾기 서비스 (소셜 디스커버리) | 성공회대학교 | 2023.03 - 09 | [Repository](https://github.com/WanF-Project/WanF-Project-iOS) |
 | Yagi | 이야기 작성 및 관리 서비스 | 개인 | 2022.09 ~ | [Repository](https://github.com/88yhtserof/YaGi) / [AppStore](https://apps.apple.com/kr/app/%EC%95%BC%EA%B8%B0-yagi/id1669865469) |
 | RecorDream-AppJam | 꿈 기록 및 관리 서비스 | SOPT 30기 | 22.07.09 - 22.07.23 | [Repository](https://github.com/TeamRecorDream/RecorDream-iOS-AppJam) |
 
