@@ -1,4 +1,4 @@
-### 🙋🏻‍♀️ About ME
+## About ME
 
 - 라이프스타일 서비스를 통해 사람들의 삶에 도움을 주는 개발자를 목표합니다.
 - 글을 읽고 쓰는 것을 즐기며, 블로그를 통해 지식과 아이디어를 기록하고 공유합니다.
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-### ⚒️ skill
+## skill
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### **🏋️ Experience**
+## Experience
 
 - LinkageLab 인턴 (2024.09 - 11)
     - 카카오 서비스 디지털 접근성 컨설팅 팀
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-### 📽️ project
+## project
 
 | Service | Description | Group | Period | Link |
 | --- | --- | --- | --- | --- |
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-### 🔍Where to find me
+## Where to find me
 
 - 🔗 [기술 블로그](https://88yhtserof.tistory.com)
 - ✉️ 88yhtserof@naver.com
